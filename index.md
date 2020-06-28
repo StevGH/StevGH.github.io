@@ -5,4 +5,6 @@ Sherlock Holmes is a fictional private detective created by British author Sir A
 * wears a deerstalker hat and Inverness cape
 * has a "cat-like" love of personal cleanliness
 * has no regard for contemporary standards of tidiness or good order
-* observes that his conclusions are "elementary", often saying to his friend Dr. Watson: "Elementary, my dear Watson"
+Holmes observes that his conclusions are "elementary", often saying to his friend Dr. Watson:
+> Elementary, my dear Watson.
+
